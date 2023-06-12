@@ -25,3 +25,13 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
+ul {
+  /* this removes the dots on the list items*/
+  list-style-type: none;
+}
+
+a {
+  /* this removes the lines under the links*/
+  text-decoration: none;
+}
